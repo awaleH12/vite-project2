@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1 className='text-3xl font-bold bg-pink-500 text-slate-900'>this is react and tailwindcss plus netfly</h1>
+    <h2 className='text-2xl font-semibold text-blue-700 bg-red-200 p-3 text-underline'>Woow! we are now live on netfly. Congratulations!</h2>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
